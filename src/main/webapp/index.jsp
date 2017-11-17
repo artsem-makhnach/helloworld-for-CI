@@ -13,7 +13,7 @@
 
 
     <div style="position: absolute; bottom: 5px; background-color: green">
-    Version 1.0
+    BuildVersion 1.
     </div>
 
 </body>
