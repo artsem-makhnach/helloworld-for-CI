@@ -3,6 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.cctrl.sample</groupId>
   <artifactId>arm-war-sample</artifactId>
+  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>embeddedTomcatSample Maven Webapp</name>
   <url>http://maven.apache.org</url>
@@ -42,7 +43,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>embeddedTomcatSample</finalName>
+    <finalName>arm-war-sample</finalName>
     <plugins>
         <plugin>
             <groupId>org.codehaus.mojo</groupId>
